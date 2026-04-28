@@ -1,0 +1,246 @@
+{
+  "028400091565": {
+    "name": "Lay's Classic",
+    "allergens": ["soy"],
+    "score": 5,
+    "verdict": "Contains oil and salt; occasional snacking only."
+  },
+
+  "5053990123179": {
+    "name": "Pringles Original",
+    "allergens": [],
+    "score": 6,
+    "verdict": "Moderately processed potato snack; portion control needed."
+  },
+
+  "8901058000269": {
+    "name": "Maggi Noodles",
+    "allergens": ["gluten", "soy"],
+    "score": 4,
+    "verdict": "Highly processed instant food with sodium; occasional use only."
+  },
+
+  "8906010500115": {
+    "name": "Kurkure Masala Munch",
+    "allergens": ["gluten", "soy"],
+    "score": 4,
+    "verdict": "Highly processed snack with palm oil, high salt, and additives."
+  },
+
+  "8901030862210": {
+    "name": "Amul Butter",
+    "allergens": ["milk"],
+    "score": 6,
+    "verdict": "Natural dairy product but high in saturated fat; use in moderation."
+  },
+
+  "8901491101198": {
+    "name": "Parle-G Biscuits",
+    "allergens": ["gluten", "milk"],
+    "score": 5,
+    "verdict": "Contains refined flour and sugar; moderate consumption advised."
+  },
+
+  "8906032250128": {
+    "name": "Tata Sampann Moong Dal",
+    "allergens": [],
+    "score": 10,
+    "verdict": "Unprocessed and protein-rich; excellent healthy food."
+  },
+
+  "8908010965008": {
+    "name": "Saffola Oats",
+    "allergens": ["gluten"],
+    "score": 8,
+    "verdict": "High fiber oats; good for heart health and daily diet."
+  },
+
+  "8901058851885": {
+    "name": "Maggi 2-Minute Noodles",
+    "allergens": ["gluten", "soy"],
+    "score": 4,
+    "verdict": "High in sodium and refined flour. Not ideal for regular consumption."
+  },
+
+  "8901030793530": {
+    "name": "Parle-G Biscuits Pack",
+    "allergens": ["gluten", "milk"],
+    "score": 5,
+    "verdict": "Affordable biscuit but high in sugar and refined flour."
+  },
+
+  "8906002480654": {
+    "name": "Amul Dark Chocolate",
+    "allergens": ["milk", "soy"],
+    "score": 6,
+    "verdict": "Contains cocoa benefits but also sugar; moderate use recommended."
+  },
+
+  "8906002250128": {
+    "name": "Tata Sampann Moong Dal",
+    "allergens": [],
+    "score": 10,
+    "verdict": "Unprocessed and protein-rich; excellent healthy food."
+  },
+
+  "8902080000016": {
+    "name": "Coca Cola Can",
+    "allergens": [],
+    "score": 2,
+    "verdict": "High sugar beverage with no nutrition; avoid frequent use."
+  },
+
+  "8901491501523": {
+    "name": "Hide & Seek Biscuit",
+    "allergens": ["gluten", "milk", "soy"],
+    "score": 3,
+    "verdict": "High sugar and refined flour snack; limited consumption."
+  },
+
+  "8901725132270": {
+    "name": "Britannia Good Day",
+    "allergens": ["gluten", "milk"],
+    "score": 4,
+    "verdict": "Sweet biscuit high in sugar and fat; eat occasionally."
+  },
+
+  "8901063010012": {
+    "name": "Dairy Milk Chocolate",
+    "allergens": ["milk", "soy"],
+    "score": 4,
+    "verdict": "High sugar chocolate; treat food, not regular snack."
+  },
+
+  "8901725002276": {
+    "name": "Britannia Marie Gold",
+    "allergens": ["gluten", "milk"],
+    "score": 5,
+    "verdict": "Light biscuit but refined flour based; moderate use."
+  },
+
+  "8901491307019": {
+    "name": "Monaco Biscuit",
+    "allergens": ["gluten"],
+    "score": 4,
+    "verdict": "Salty refined flour snack; occasional use advised."
+  },
+
+  "8901030895485": {
+    "name": "Amul Cheese Slices",
+    "allergens": ["milk"],
+    "score": 6,
+    "verdict": "Good calcium source but processed and salty."
+  },
+
+  "8901725019014": {
+    "name": "NutriChoice Digestive",
+    "allergens": ["gluten"],
+    "score": 6,
+    "verdict": "Better fiber option than regular biscuits, still processed."
+  },
+
+  "8901725131259": {
+    "name": "50-50 Biscuit",
+    "allergens": ["gluten", "milk"],
+    "score": 4,
+    "verdict": "Processed snack with sodium and refined flour."
+  },
+
+  "8901719123456": {
+    "name": "Bingo Mad Angles",
+    "allergens": ["gluten", "soy"],
+    "score": 3,
+    "verdict": "Deep fried snack with additives; not healthy regular food."
+  },
+
+  "8902519001220": {
+    "name": "Lay's India Magic Masala",
+    "allergens": ["soy"],
+    "score": 4,
+    "verdict": "Potato snack high in fat and sodium."
+  },
+
+  "8901207010013": {
+    "name": "Aashirvaad Atta",
+    "allergens": ["gluten"],
+    "score": 9,
+    "verdict": "Whole wheat flour; healthy staple choice."
+  },
+
+  "8901725000197": {
+    "name": "Britannia Bread",
+    "allergens": ["gluten"],
+    "score": 6,
+    "verdict": "Useful staple food but processed bakery product."
+  },
+
+  "8904109450321": {
+    "name": "Kellogg's Corn Flakes",
+    "allergens": [],
+    "score": 6,
+    "verdict": "Low fat breakfast cereal but often low fiber."
+  },
+
+  "8906021360014": {
+    "name": "Saffola Oats Plus",
+    "allergens": ["gluten"],
+    "score": 9,
+    "verdict": "High fiber and heart-friendly breakfast option."
+  },
+
+  "8902519010017": {
+    "name": "Uncle Chipps",
+    "allergens": ["soy"],
+    "score": 4,
+    "verdict": "Salty fried snack; occasional use only."
+  },
+
+  "8901030701015": {
+    "name": "Amul Taaza Milk",
+    "allergens": ["milk"],
+    "score": 8,
+    "verdict": "Nutritious dairy option with protein and calcium."
+  },
+
+  "8906002480013": {
+    "name": "Tata Salt",
+    "allergens": [],
+    "score": 6,
+    "verdict": "Essential mineral source but excess sodium harmful."
+  },
+
+  "8901491503022": {
+    "name": "Krackjack Biscuit",
+    "allergens": ["gluten", "milk"],
+    "score": 4,
+    "verdict": "Sweet-salty biscuit with refined flour."
+  },
+
+  "8901725130191": {
+    "name": "Treat Croissant",
+    "allergens": ["gluten", "milk", "soy"],
+    "score": 3,
+    "verdict": "Highly processed bakery snack with sugar and fat."
+  },
+
+  "8901030865006": {
+    "name": "Amul Fresh Cream",
+    "allergens": ["milk"],
+    "score": 5,
+    "verdict": "Rich dairy product; high fat so use moderately."
+  },
+
+  "8901725001002": {
+    "name": "Britannia Cheese",
+    "allergens": ["milk"],
+    "score": 6,
+    "verdict": "Protein source but processed and salty."
+  },
+
+  "8908001158074": {
+    "name": "Paper Boat Aamras",
+    "allergens": [],
+    "score": 7,
+    "verdict": "Fruit-based drink better than soda but contains sugar."
+  }
+}
